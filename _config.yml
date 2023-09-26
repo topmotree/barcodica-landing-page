@@ -36,45 +36,41 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Three types of scanners
+    description                           : Choose from a screen-based scanner for speed, a button-based scanner for battery optimization, or a continuous scanning mode for convenience.
+    fontawesome_icon_name                 : barcode
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Create product records
+    description                           : Match barcodes with detailed product information, including name, price, images, and more. Every time you scan the barcode, the saved data will be displayed.
+    fontawesome_icon_name                 : cart-plus
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Seamless integration
+    description                           : Import products from your sales or inventory system effortlessly.
+    fontawesome_icon_name                 : download
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Quantity tracking
+    description                           : Scan the same barcode repeatedly, and the quantity will be automatically incremented. Edit quantities easily.
+    fontawesome_icon_name                 : exchange
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Handy search option
+    description                           : Quickly find scanned barcodes using the search functionality.
+    fontawesome_icon_name                 :
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Share and export
+    description                           : Share your scanned barcode list in CSV, customizable with the columns you need.
+    fontawesome_icon_name                 : search
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Expired product management
+    description                           : Add expiration dates and easily identify expired products.
+    fontawesome_icon_name                 : check-square-o
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Advanced settings
+    description                           : Set up additional scanner settings to prevent duplicate barcodes or combine similar ones.
+    fontawesome_icon_name                 : cogs
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Label scanned barcodes with color
+    description                           : Helps to identify products that need attention.
+    fontawesome_icon_name                 : tag
 
 
 
