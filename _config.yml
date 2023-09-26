@@ -46,11 +46,11 @@ features                                  :
 
   - title                                 : Seamless integration
     description                           : Import products from your sales or inventory system effortlessly.
-    fontawesome_icon_name                 : thumbs-up
+    fontawesome_icon_name                 : magic
 
   - title                                 : Quantity tracking
     description                           : Scan the same barcode repeatedly, and the quantity will be automatically incremented. Edit quantities easily.
-    fontawesome_icon_name                 : exchange
+    fontawesome_icon_name                 : plus-square
 
   - title                                 : Handy search option
     description                           : Quickly find scanned barcodes using the search functionality.
@@ -58,11 +58,11 @@ features                                  :
   
   - title                                 : Share and export
     description                           : Share your scanned barcode list in CSV, customizable with the columns you need.
-    fontawesome_icon_name                 :
+    fontawesome_icon_name                 : share
 
   - title                                 : Expired product management
     description                           : Add expiration dates and easily identify expired products.
-    fontawesome_icon_name                 : check-square-o
+    fontawesome_icon_name                 : check-square
 
   - title                                 : Advanced settings
     description                           : Set up additional scanner settings to prevent duplicate barcodes or combine similar ones.
