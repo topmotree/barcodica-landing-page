@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Barcodica                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Barcode scanner                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Effortlessly manage inventory with Barcodica. Scan, track quantities, import data, and export in seconds. The ultimate barcode scanner app.
+app_description                           : Effortlessly manage inventory with Barcodica app. Scan, track quantities, import data, and export in seconds. The ultimate barcode scanner app.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Martins Vasiljevs
 your_link                                 :
-your_city                                 : Eindhoven
+your_city                                 :
 email_address                             : martinsv.dev@gmail.com
 facebook_username                         :                                           
 instagram_username                        :
@@ -42,11 +42,11 @@ features                                  :
     
   - title                                 : Create product records
     description                           : Match barcodes with detailed product information, including name, price, images, and more. Every time you scan the barcode, the saved data will be displayed.
-    fontawesome_icon_name                 : cart-plus
+    fontawesome_icon_name                 : eye
 
   - title                                 : Seamless integration
     description                           : Import products from your sales or inventory system effortlessly.
-    fontawesome_icon_name                 : download
+    fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Quantity tracking
     description                           : Scan the same barcode repeatedly, and the quantity will be automatically incremented. Edit quantities easily.
@@ -54,11 +54,11 @@ features                                  :
 
   - title                                 : Handy search option
     description                           : Quickly find scanned barcodes using the search functionality.
-    fontawesome_icon_name                 :
+    fontawesome_icon_name                 : search
   
   - title                                 : Share and export
     description                           : Share your scanned barcode list in CSV, customizable with the columns you need.
-    fontawesome_icon_name                 : search
+    fontawesome_icon_name                 :
 
   - title                                 : Expired product management
     description                           : Add expiration dates and easily identify expired products.
