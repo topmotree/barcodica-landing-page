@@ -6,6 +6,9 @@
 <html lang="en-us">
 
 {% include head.html %}
+{% if page.robots %}
+<meta name="robots" content="{{ page.robots }}">
+{% endif %}
 
 <body class="subPageBody">
     <div class="headerBackground subPageHeaderBackground">
